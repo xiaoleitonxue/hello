@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f757c7-653b-4f1a-9d8e-4dd8c2e2b20b" name="更改" comment="添加 demo.java 和 SnakeGame.java&#10;first commit">
-      <change afterPath="$PROJECT_DIR$/src/demo2/air.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo2/control1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo2/jd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo2/swith.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo2/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo2/tv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/demo2/washmashine.java" afterDir="false" />
-    </list>
+    <list default="true" id="40f757c7-653b-4f1a-9d8e-4dd8c2e2b20b" name="更改" comment="添加 demo.java 和 SnakeGame.java&#10;first commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,12 +111,44 @@
       <workItem from="1772858443793" duration="269000" />
       <workItem from="1772858756712" duration="14000" />
       <workItem from="1772858815453" duration="8000" />
-      <workItem from="1772951781540" duration="54000" />
+      <workItem from="1772951781540" duration="266000" />
     </task>
+    <task id="LOCAL-00001" summary="添加 demo.java 和 SnakeGame.java&#10;first commit">
+      <option name="closed" value="true" />
+      <created>1772952031816</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772952031816</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -132,6 +156,8 @@
       <path value="$PROJECT_DIR$/.." />
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="添加 demo.java 和 SnakeGame.java&#10;first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加 demo.java 和 SnakeGame.java&#10;first commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

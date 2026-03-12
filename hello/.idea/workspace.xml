@@ -114,6 +114,7 @@
       <workItem from="1772951781540" duration="266000" />
       <workItem from="1773068396244" duration="81000" />
       <workItem from="1773220489697" duration="84000" />
+      <workItem from="1773236353299" duration="32000" />
     </task>
     <task id="LOCAL-00001" summary="添加 demo.java 和 SnakeGame.java&#10;first commit">
       <option name="closed" value="true" />
@@ -147,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773220521885</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加 demo.java 和 SnakeGame.java&#10;first commit">
+      <option name="closed" value="true" />
+      <created>1773236376206</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773236376206</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

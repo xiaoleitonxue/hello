@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40f757c7-653b-4f1a-9d8e-4dd8c2e2b20b" name="更改" comment="添加 demo.java 和 SnakeGame.java&#10;first commit" />
+    <list default="true" id="40f757c7-653b-4f1a-9d8e-4dd8c2e2b20b" name="更改" comment="添加 demo.java 和 SnakeGame.java&#10;first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,6 +118,8 @@
       <workItem from="1773220489697" duration="84000" />
       <workItem from="1773236353299" duration="32000" />
       <workItem from="1773303400611" duration="25000" />
+      <workItem from="1773320304391" duration="24000" />
+      <workItem from="1773320466055" duration="219000" />
     </task>
     <task id="LOCAL-00001" summary="添加 demo.java 和 SnakeGame.java&#10;first commit">
       <option name="closed" value="true" />
@@ -165,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773303418108</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="添加 demo.java 和 SnakeGame.java&#10;first commit">
+      <option name="closed" value="true" />
+      <created>1773320315679</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773320315679</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

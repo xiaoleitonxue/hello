@@ -1,14 +1,12 @@
 package demo8;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.IOException;
-import java.io.InputStream;
+import java.io.*;
 
 public class test {
     public static void main (String[] args) throws IOException {
 
         InputStream is = new FileInputStream("hello\\src\\demo8\\123");
+        BufferedInputStream fis = new BufferedInputStream(is);
 
         /*int b;
         while ((b = is.read()) != -1) {
@@ -23,6 +21,7 @@ public class test {
         byte[] bytes = is.readAllBytes();
         System.out.println(new String(bytes));
 
+        //is.flush();//flush() 只用于输出流（Output Stream）
         is.close();
     }
 }

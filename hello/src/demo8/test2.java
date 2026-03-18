@@ -88,13 +88,16 @@ public class test2 {
 
         try(
             InputStream fis = new FileInputStream(aaa);
+            BufferedInputStream bis = new BufferedInputStream(fis);
             OutputStream fot = new FileOutputStream(bbb);
+            BufferedOutputStream bos = new BufferedOutputStream(fot);
+
             ) {
 
             byte[] buffer = new byte[1024];
             int len;
-            while((len = fis.read(buffer))!= -1){
-                fot.write(buffer, 0, len);
+            while((len = bis.read(buffer))!= -1){
+                bos.write(buffer, 0, len);
             }
             System.out.println("success");
 
